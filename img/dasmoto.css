@@ -1,0 +1,47 @@
+.header{
+    font-family: Helvetica;
+    font-size:100px;
+    font-weight: bold;
+    color:khaki;
+    text-align: center;
+    background-image:url("pattern.jpeg")
+      }
+
+    
+
+
+
+    .topic{
+    font-family:Helvetica;
+    font-size:32px;
+    font-weight:bold;
+    color:white;
+    
+        
+     }
+#fool{
+        background-color: lightcoral;
+    
+    }
+    
+    
+#shit{
+        background-color: skyblue;
+    }
+    
+#first{
+        background-color:mediumspringgreen;
+    }
+
+.stuff{
+    font-family: Helvetica;
+    font-weight:bold;
+    color:blue;
+}
+body{
+    background-color: grey;
+    text-align: center;
+}
+
+
+
